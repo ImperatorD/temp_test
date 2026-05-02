@@ -1,0 +1,14 @@
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\bin\Debug\net10.0\ConsoleApp.exe
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+c:\Users\danie\Documents\CSharp\temp_test\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
